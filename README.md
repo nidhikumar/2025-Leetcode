@@ -6,3 +6,4 @@
 5. 8 August 2025 - Median of two arrays
 6. 8 August 2025 - Longest Substring Without Reeating Characters 
 7. 9 August 2025 - Three Sum
+8. 9 August 2025 - Merge 2 Sorted Arrays
