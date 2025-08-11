@@ -8,3 +8,4 @@
 7. 9 August 2025 - Three Sum
 8. 9 August 2025 - Merge 2 Sorted Arrays
 9. 9 August 2025 - Range Sum Query Immutable
+10. 10 August 2025 - Longest Common Prefix
